@@ -11,13 +11,13 @@ Clone this repository to your machine using git clone https://github.com/Mohamed
 
 **MongoDB**
 
-**Node js
+**Node js**
 
-Mongoose 
+**Mongoose** 
 
-Express js
+**Express js**
 
-Moment js
+**Moment js**
 
 ## Usage
 Open a terminal and navigate to the project directory
