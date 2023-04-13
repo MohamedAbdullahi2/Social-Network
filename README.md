@@ -23,6 +23,12 @@ Use a tool such as Postman or Insomnia to test the APIs
 
 Create users, thoughts, and reactions, and add friends to test the functionality of the app.
 
+MOCKUP 
+
+![image](https://user-images.githubusercontent.com/118404373/231626855-566da318-45a9-483a-8b43-2fa597916307.png)
+![image](https://user-images.githubusercontent.com/118404373/231626891-87b484ce-518a-44ec-bd8b-2cdec72d39bd.png)
+
+
 Walkthrough Video
 
 You can view a walkthrough video of the app here for more details on how to use the APIs.
