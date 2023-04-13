@@ -9,7 +9,7 @@ Clone this repository to your machine using git clone https://github.com/Mohamed
 
 ## Technology Used
 
-**MongoDB*
+**MongoDB**
 
 Node js
 
