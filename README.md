@@ -4,7 +4,7 @@ This is a backend API project for a social network web application that enables 
 
 ## Installation and Setup
 
-Clone this repository to your machine using git clone https://github.com/username/social-network-api.git
+Clone this repository to your machine using git clone https://github.com/MohamedAbdullahi2/Social-Network/edit/main/README.md
 
 
 ##Technology Used
@@ -25,8 +25,10 @@ Create users, thoughts, and reactions, and add friends to test the functionality
 
 MOCKUP 
 
-![image](https://user-images.githubusercontent.com/118404373/231626855-566da318-45a9-483a-8b43-2fa597916307.png)
-![image](https://user-images.githubusercontent.com/118404373/231626891-87b484ce-518a-44ec-bd8b-2cdec72d39bd.png)
+![image](https://user-images.githubusercontent.com/118404373/231627154-c146e6a1-f8d5-4f07-b058-6d76121e9660.png)
+![image](https://user-images.githubusercontent.com/118404373/231627274-10d7a764-8b91-47f0-b131-a269e75e3a9b.png)
+
+
 
 
 Walkthrough Video
