@@ -1,14 +1,35 @@
-User Story
-AS A social media startup
-I WANT an API for my social network that uses a NoSQL database
-SO THAT my website can handle large amounts of unstructured data
-Acceptance Criteria
-GIVEN a social network API
-WHEN I enter the command to invoke the application
-THEN my server is started and the Mongoose models are synced to the MongoDB database
-WHEN I open API GET routes in Insomnia for users and thoughts
-THEN the data for each of these routes is displayed in a formatted JSON
-WHEN I test API POST, PUT, and DELETE routes in Insomnia
-THEN I am able to successfully create, update, and delete users and thoughts in my database
-WHEN I test API POST and DELETE routes in Insomnia
-THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s frie
+# Project: Social Network API
+
+This is a backend API project for a social network web application that enables users to share their thoughts, react to friend's thoughts, and create a friend's list. It was built using MongoDB, Mongoose, Express, and Node.
+
+## Installation and Setup
+
+Clone this repository to your machine using git clone https://github.com/username/social-network-api.git
+
+
+##Technology Used
+
+ MongoDB
+ Node js
+Mongoose 
+Express 
+
+##Usage
+Open a terminal and navigate to the project directory
+
+Run npm start or nodemon server.js to start the application
+
+Use a tool such as Postman or Insomnia to test the APIs
+
+Create users, thoughts, and reactions, and add friends to test the functionality of the app.
+
+Walkthrough Video
+
+You can view a walkthrough video of the app here for more details on how to use the APIs.
+
+
+Contributing
+Contributions are always welcome. If you find any bugs or have suggestions for improvements, feel free to create an issue or submit a pull request.
+
+License
+MIT
