@@ -22,7 +22,7 @@ Clone this repository to your machine using git clone https://github.com/Mohamed
 ## Usage
 Open a terminal and navigate to the project directory
 
-Run npm start or nodemon server.js to start the application
+**Run npm start or nodemon server.js** to start the application
 
 Use a tool such as Postman or Insomnia to test the APIs
 
