@@ -9,10 +9,15 @@ Clone this repository to your machine using git clone https://github.com/Mohamed
 
 ##Technology Used
 
- MongoDB
- Node js
+MongoDB
+
+Node js
+
 Mongoose 
-Express 
+
+Express js
+
+Moment js
 
 ##Usage
 Open a terminal and navigate to the project directory
