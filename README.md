@@ -4,7 +4,7 @@ This is a backend API project for a social network web application that enables 
 
 ## Installation and Setup
 
-Clone this repository to your machine using git clone https://github.com/MohamedAbdullahi2/Social-Network/edit/main/README.md
+Clone this repository to your machine using git clone https://github.com/MohamedAbdullahi2/Social-Network
 
 
 ## Technology Used
