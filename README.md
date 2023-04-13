@@ -39,9 +39,8 @@ Create users, thoughts, and reactions, and add friends to test the functionality
 
 ## Walkthrough Video
 
-You can view a walkthrough video of the app [[HERE](https://drive.google.com/file/d/1Rsn2amqlWcJcaxw713FLKG1e0Lq-0JH-/view)] for more details on how to use the APIs.
+You can view a walkthrough video of the app [[HERE](https://drive.google.com/file/d/1Rsn2amqlWcJcaxw713FLKG1e0Lq-0JH-/view)]. 
 
-][
 ## Contributing
 Contributions are always welcome. If you find any bugs or have suggestions for improvements, feel free to create an issue or submit a pull request.
 
