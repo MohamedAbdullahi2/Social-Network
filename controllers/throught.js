@@ -1,4 +1,4 @@
-const Thought = require('../models/throughts');
+const Thought = require('../models/thoughts');
 const User = require('../models/user');
 const Reaction = require('../models/reactions');
 
