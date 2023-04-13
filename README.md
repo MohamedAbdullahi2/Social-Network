@@ -47,6 +47,7 @@ Contributions are always welcome. If you find any bugs or have suggestions for i
 ## License
 MIT
 
-##Author
+## Author
+
 https://github.com/MohamedAbdullahi2
 
