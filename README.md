@@ -1,6 +1,7 @@
 # Project: Social Network API
 
-This is a backend API project for a social network web application that enables users to share their thoughts, react to friend's thoughts, and create a friend's list. It was built using MongoDB, Mongoose, Express, and Node.
+The Social Network API is a backend API project that facilitates the development of a social network web application. Users can create and share their thoughts, react to friend's thoughts, and create a friend's list. The API is built using MongoDB, Mongoose, Express, Node, and Moment.js.
+
 
 ## Installation and Setup
 
